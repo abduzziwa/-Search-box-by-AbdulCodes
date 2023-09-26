@@ -19,10 +19,6 @@ It provides an intuitive and user-friendly interface for searching and displayin
 - CSS
 - JavaScript
 
-## Screenshots
-
-![Search Box Screenshot](/path/to/screenshot.png)
-
 ## Getting Started
 
 These instructions will help you set up and run the project on your local machine.
